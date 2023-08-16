@@ -3,7 +3,7 @@ import java.util.Arrays;
 import java.util.HashSet;
 import java.util.List;
 
-class Solution {
+class threeSum {
     HashSet<List<Integer>> solution = new HashSet<>();
     public List<List<Integer>> threeSum(int[] nums) {
         // some important observations
